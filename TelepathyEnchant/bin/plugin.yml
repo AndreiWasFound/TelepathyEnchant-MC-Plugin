@@ -1,0 +1,7 @@
+main: me.AndreiWasFound.TelepathyEnchant.Main
+name: TelepathyEnchant
+author: AndreiWasFound
+version: 1.0
+
+commands:
+  Telepathy:
